@@ -21,3 +21,7 @@ h1 {
 .container p:first-of-type {
   font-size: 22px;
 }
+
+.continue h1 {
+  color:coral;
+}
